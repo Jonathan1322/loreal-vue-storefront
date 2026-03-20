@@ -47,7 +47,7 @@ loreal-vue-storefront/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/loreal-vue-storefront.git
+git clone https://github.com/Jonathan1322/loreal-vue-storefront.git
 cd loreal-vue-storefront
 ```
 
